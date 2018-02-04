@@ -24,5 +24,5 @@
     <dimen name="title_margin_top">6dp</dimen>
     <dimen name="delimiter_width">20dp</dimen>
     <dimen name="delimiter_height">4dp</dimen>
-
+    <dimen name="q_line_spacing">2dp</dimen>
 </resources>
