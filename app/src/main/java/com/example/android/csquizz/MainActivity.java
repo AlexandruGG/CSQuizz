@@ -105,9 +105,8 @@ public class MainActivity extends AppCompatActivity {
         nameField.setEnabled(true);
 
         //Reset Question 1
-        String q1Null = "";
         EditText q1Input = findViewById(R.id.q1_answer);
-        q1Input.setText(q1Null);
+        q1Input.setText("");
         q1Input.setEnabled(true);
         q1Input.clearFocus();
 
@@ -119,9 +118,8 @@ public class MainActivity extends AppCompatActivity {
         }
 
         //Reset Question 3
-        String q3Null = "";
         EditText q3Input = findViewById(R.id.q3_answer);
-        q3Input.setText(q3Null);
+        q3Input.setText("");
         q3Input.setEnabled(true);
         q3Input.clearFocus();
 
